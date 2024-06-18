@@ -1,4 +1,5 @@
-package Pesquisa;
+package List.Pesquisa;
+
 import java.util.ArrayList;
 import java.util.List;
 
